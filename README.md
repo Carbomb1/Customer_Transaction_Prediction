@@ -13,9 +13,17 @@ In the testing dataset there is "Fake Data", this fake data is synthethic data t
 ### Model Used for Final Predictions
 My best performing model ended up being a LightGBM model. The optimal hyperparameter settings for this model were discovered using Bayesian Optimzaiton. To achieve the final predictions for the model, Stratified K-Fold was used due to a 10:90 class imbalance. The final predicted values were an average of the values of the K number of rounds. 
 
+
 ## Results
 In my final results file I was able to achieve an AUC score of 0.91227. With the highest official score being 0.92573
 
 ![image](https://user-images.githubusercontent.com/45641348/168448844-069fb4be-4981-4ddc-94ec-2af5d0c497a4.png)
 
+## Contents of Repository
+
+### Code File
+The Santander_Prediction_Code.ipynb file shows the detailed steps to arrive at the final predictions
+
+### Submission File 
+The Submission_File.csv contains the final predictions that were uploaded to the Kaggle competition. 
 
