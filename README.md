@@ -22,7 +22,7 @@ In my final results file I was able to achieve an AUC score of 0.91227. With the
 ## Contents of Repository
 
 ### Code File
-The Santander_Prediction_Code.ipynb file shows the detailed steps to arrive at the final predictions
+The Santander_Prediction_Code.ipynb file shows the detailed steps to arrive at the final predictions. The file was written using Python through a Google Colab notebook
 
 ### Submission File 
 The Submission_File.csv contains the final predictions that were uploaded to the Kaggle competition. 
