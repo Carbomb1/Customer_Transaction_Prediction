@@ -6,7 +6,7 @@ Kaggle competition link - https://www.kaggle.com/competitions/santander-customer
 
 ## Main Strategies Used
 
-### "Fake Data" in the testing dataset
+### "Fake Data" in the Testing Dataset
 In the testing dataset there is "Fake Data", this fake data is synthethic data that was created off of real data. The fake data features can be identified if none of the values in the features is unique. In the testing data set, half of the data is real data and half is synthetic data created from the real data. This fake data had led to poor performance when training the model. To solve this problem new features were created based on the frequency of each value that shows up in every column. This added 200 more features to the testing data. But because this data was not normalized 200 more features were added taht were scaled.
 
 
