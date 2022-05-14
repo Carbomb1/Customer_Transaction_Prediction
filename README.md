@@ -15,14 +15,14 @@ My best performing model ended up being a LightGBM model. The optimal hyperparam
 
 
 ## Results
-In my final results file I was able to achieve an AUC score of 0.91227. With the highest official score being 0.92573
+In my final results file I was able to achieve an AUC score of 0.91227. With the highest official score being 0.92573.
 
 ![image](https://user-images.githubusercontent.com/45641348/168448844-069fb4be-4981-4ddc-94ec-2af5d0c497a4.png)
 
 ## Contents of Repository
 
 ### Code File
-The Santander_Prediction_Code.ipynb file shows the detailed steps to arrive at the final predictions. The file was written using Python through a Google Colab notebook
+The Santander_Prediction_Code.ipynb file shows the detailed steps to arrive at the final predictions. The file was written using Python through a Google Colab notebook.
 
 ### Submission File 
 The Submission_File.csv contains the final predictions that were uploaded to the Kaggle competition. 
