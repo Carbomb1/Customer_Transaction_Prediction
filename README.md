@@ -1,8 +1,7 @@
 # Santander Transaction Prediction
-Repository to track my progress in the Santander Customer Transaction Prediction Kaggle competition
 
 ## Background
-Banco Santander, S.A. is a multinational financial services company based in Spain. Santander wants to be able to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. To help achieve this they sponsored a Kaggle competition. This repository holds my final code used tackle this competition
+Banco Santander, S.A. is a multinational financial services company based in Spain. Santander wants to be able to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. To help achieve this they sponsored a Kaggle competition. This repository holds my final code used tackle this competition.
 Kaggle competition link - https://www.kaggle.com/competitions/santander-customer-transaction-prediction/overview
 
 ## Results
